@@ -1,0 +1,46 @@
+{
+  "coord": {
+    "lon": -5.93,
+    "lat": 54.59
+  },
+  "weather": [
+    {
+      "id": 500,
+      "main": "Rain",
+      "description": "light rain",
+      "icon": "10d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 281.96,
+    "feels_like": 280.73,
+    "temp_min": 281.48,
+    "temp_max": 282.15,
+    "pressure": 979,
+    "humidity": 93
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 1,
+    "deg": 0
+  },
+  "rain": {
+    "1h": 0.91
+  },
+  "clouds": {
+    "all": 94
+  },
+  "dt": 1605435553,
+  "sys": {
+    "type": 1,
+    "id": 1376,
+    "country": "GB",
+    "sunrise": 1605426883,
+    "sunset": 1605457337
+  },
+  "timezone": 0,
+  "id": 2655984,
+  "name": "Belfast",
+  "cod": 200
+}
